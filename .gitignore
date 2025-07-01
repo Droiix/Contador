@@ -1,0 +1,51 @@
+# Archivos de dependencias y construcción
+.gradle
+/build/
+/app/build/
+
+# Archivos de configuración local (NO SUBIR)
+local.properties
+.env
+
+# Archivos y carpetas del IDE
+*.iml
+.idea/
+.idea/caches/
+.idea/libraries/
+.idea/modules.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+.idea/workspace.xml
+
+# Archivos de sistema operativo
+.DS_Store
+
+# Archivos de compilación y empaquetado
+*.aab
+*.ap_
+*.dex
+
+# Capturas de pantalla o videos del emulador
+/captures/
+
+# Archivos de código nativo (C++)
+.externalNativeBuild
+.cxx
+
+
+
+
+
+
+
+
+
+
+
+Video
+
+Deep Research
+
+Canvas
+
+
