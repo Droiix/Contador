@@ -1,7 +1,6 @@
 # Archivos de dependencias y construcción
 .gradle
 
-
 # Archivos de configuración local (NO SUBIR)
 local.properties
 .env
