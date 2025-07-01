@@ -1,7 +1,6 @@
 # Archivos de dependencias y construcción
 .gradle
-/build/
-/app/build/
+
 
 # Archivos de configuración local (NO SUBIR)
 local.properties
